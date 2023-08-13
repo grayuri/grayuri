@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
-### 👋 Hello, there! I’m Bruno,
+### 👋 Hello, there! I’m Bruno.
 ## I'm a student of programming and web development.
 
 <div align="center">  
